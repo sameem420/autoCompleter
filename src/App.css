@@ -1,0 +1,10 @@
+.textInput {
+  margin-top: 10px !important;
+}
+.suggestion {
+  background-color: cornflowerblue;
+  color: white;
+}
+.suggestion:hover {
+  cursor: pointer;
+}
